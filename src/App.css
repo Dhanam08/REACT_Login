@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background: url("https://image.freepik.com/free-vector/water-splashes_23-2147503158.jpg");
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-top:0px;
+}
+
+
+.button {
+  background-color: #00BFFF;
+  font-weight: bold;
+  padding: 10px 11px;
+  color: #ffffff;
+}
+.sucessMsg {
+  color: #6B8E23;
+  margin-bottom: 10px;
+}
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
